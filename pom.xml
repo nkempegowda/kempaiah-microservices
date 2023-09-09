@@ -6,7 +6,7 @@
     <artifactId>microservices</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>service</module>
+        <module>common-service</module>
         <module>department-service</module>
         <module>employee-service</module>
         <module>company-service</module>
